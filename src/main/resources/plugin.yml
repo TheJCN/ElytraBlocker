@@ -1,0 +1,6 @@
+name: ElytraBlocker
+version: '${project.version}'
+main: jcn.elytrablocker.ElytraBlocker
+api-version: '1.20'
+description: Небольшой плагин для проекта SubCraft позволяющий отключать элитры в определенном мире.
+author: The_JCN
